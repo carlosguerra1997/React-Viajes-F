@@ -1,0 +1,59 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#titulo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 15px;
+}
+
+#contactoForm {
+    background-color: #C9C9C9;
+    border: 1px solid gray;
+    border-radius: 15px;
+    box-shadow: 0px 0px 2px #ccc;
+    height: 550px;
+    margin: 0px auto;
+    width: 40%;
+}
+
+.labelContacto {
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+}
+
+.inputContacto {
+    display: block;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 90%;
+}
+
+#formTextArea {
+    display: block;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    resize: none;
+    width: 90%;
+}
+
+#btnSubmit {
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    display: block;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    padding: 5px;
+    width: 32%;
+}
